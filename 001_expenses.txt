@@ -1,0 +1,4 @@
+savings,200.0,feed
+biz,300.0,transport
+bank,400.0,credit
+loan,100.0,credit

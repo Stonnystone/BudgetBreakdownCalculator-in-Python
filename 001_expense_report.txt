@@ -1,0 +1,16 @@
+=============== Expense Report ===============
+Name:  Okuta	 Omeiza
+R#:  001
+Total Income:  1000.00
+Highest Expense Category:  400.00
+Preferred Expenses:  500.00
+------------ statement of current budget ------------
+savings	20.00%
+biz	30.00%
+bank	40.00%
+loan	10.00%
+------------ current expense list ------------
+savings	200.0	feed
+biz	300.0	transport
+bank	400.0	credit
+loan	100.0	credit
